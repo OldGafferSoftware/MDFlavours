@@ -2,6 +2,8 @@
 
 The flavour catalog for the Dew Tracker app, published so the app can download updates.
 
+App help: [Support](SUPPORT.md) · [Privacy policy](PRIVACY.md) · [Report a problem or flavour correction](https://github.com/OldGafferSoftware/MDFlavours/issues/new) · info@oldgaffersoftware.com
+
 - `catalog.json`: the full catalog (released flavours only)
 - `version.json`: a small file the app checks first, so it only downloads the catalog when it changed
 - `scripts/validate.py`: run before every commit; checks the rules below and writes `version.json`
