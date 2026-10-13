@@ -54,7 +54,7 @@ The catalog is refreshed each morning by a scheduled task. Each update is one co
 
 ## Attribution
 
-Many entries, and most `notes` text, are adapted from the Wikipedia article [List of Mountain Dew flavors and varieties](https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties) by its contributors ([history](https://en.wikipedia.org/w/index.php?title=List_of_Mountain_Dew_flavors_and_varieties&action=history)), snapshot of 2026-10-10. Status, market and availability details also draw on the news sources linked in each entry's `sourceURL`, written in our own words.
+Many entries, and most `notes` text, are adapted from the Wikipedia article [List of Mountain Dew flavors and varieties](https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties) by its contributors ([history](https://en.wikipedia.org/w/index.php?title=List_of_Mountain_Dew_flavors_and_varieties&action=history)), snapshot of 2026-10-10. New flavours, and status, market and availability details, are researched daily with AI assistance from news reports and company announcements, linked in each entry's `sourceURL` and written in our own words.
 
 Changes from the article: kept each entry's name and the first sentence of its notes; removed citation markers; combined the tables into one list; removed a leading "Mountain Dew" from names; added "(Energy)" to four energy drink names; left out alcoholic products and two repeated entries; added `id`, `status`, `markets`, `availability`, `zeroSugar`, `since`, `update` and `sourceURL`; added entries for flavours released after the snapshot.
 
