@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 1,
- "generated": "2026-10-13",
+ "version": 2,
+ "generated": "2026-10-17",
  "count": 141,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/MDFlavours#attribution",
@@ -1317,14 +1317,16 @@
    "id": "mountain-dew-white-out",
    "name": "White Out",
    "notes": "A smooth citrus variant part of the \"DEWmocracy: Collective Intelligence\" promotion with a limited release starting on April 19, 2010.",
-   "status": "retired",
-   "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
-   "markets": null,
-   "availability": null,
+   "status": "limited",
+   "sourceURL": "https://sporked.com/article/mountain-dew-america-variety-pack-store/",
+   "markets": [
+    "US"
+   ],
+   "availability": "America 250 variety pack (18 cans, with Code Red and Voltage)",
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "discontinued": true
+   "update": "Back for a limited time in the 2026 America-themed variety pack.",
+   "discontinued": false
   },
   {
    "id": "mountain-dew-distortion",
