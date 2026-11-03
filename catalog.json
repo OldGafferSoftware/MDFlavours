@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 2,
- "generated": "2026-10-17",
+ "version": 3,
+ "generated": "2026-11-03",
  "count": 141,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/MDFlavours#attribution",
@@ -189,16 +189,16 @@
    "id": "mountain-dew-trolli-mango-pineapple-punch",
    "name": "Trolli (Mango Pineapple Punch)",
    "notes": "Mango pineapple punch flavored Dew, also part of a collaboration with Trolli candy.",
-   "status": "limited",
+   "status": "retired",
    "markets": [
     "US"
    ],
    "availability": "US retail and Pizza Hut, through October 2026",
    "zeroSugar": true,
    "since": "2026-08",
-   "update": "Mango, pineapple, hint of strawberry; runs through October 2026",
-   "sourceURL": "https://www.pepsico.com/newsroom/press-releases/2026/mountain-dew-trolli-mango-pineapple-punch-delivers-bold-tropical-flavors-in-new-limited-edition-soda",
-   "discontinued": false
+   "update": "Limited run ended after its stated October 2026 window.",
+   "sourceURL": "https://convenience.org/stay-current/news/2026/august/25/mountain-dew-and-trolli-launch-second-lto-beverage",
+   "discontinued": true
   },
   {
    "id": "dirty-mountain-dew",
