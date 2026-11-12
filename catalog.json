@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 3,
- "generated": "2026-11-03",
+ "version": 4,
+ "generated": "2026-11-12",
  "count": 141,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/MDFlavours#attribution",
@@ -438,13 +438,14 @@
    "status": "current",
    "markets": [
     "US",
-    "Malaysia"
+    "Malaysia",
+    "UK"
    ],
-   "availability": "7-Eleven & Speedway fountain (US); retail (Malaysia)",
+   "availability": "7-Eleven & Speedway fountain (US); retail (Malaysia); Booker from Oct 2026, wider UK retail from Nov 2026 (UK)",
    "zeroSugar": false,
    "since": "2024",
-   "update": "Dark citrus punch; permanent in Malaysia; dropped in Canada 2025",
-   "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "update": "Officially launched in the UK in October 2026 via Booker, rolling out nationally from November",
+   "sourceURL": "https://scottishgrocer.co.uk/2026/10/02/mountain-dew-goes-pitch-black-with-new-flavour/",
    "discontinued": false
   },
   {
