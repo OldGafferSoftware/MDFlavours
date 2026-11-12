@@ -11,6 +11,7 @@ Rules (the app depends on these):
   - status is "current", "limited", "retired" or null; discontinued == (status == "retired")
   - released flavours only: no upcoming, rumoured or cancelled entries, and no alcoholic products
   - count matches the number of flavours
+  - changed is YYYY-MM-DD or null; a new or changed entry has changed == generated
 """
 import json, re, subprocess, sys
 
@@ -51,6 +52,7 @@ for f in fl:
     for k in ("notes", "availability", "since", "update", "sourceURL"):
         if f.get(k) is not None and not isinstance(f[k], str): fail(f"{fid}: {k} must be text or null")
     if f.get("sourceURL") and not f["sourceURL"].startswith("https://"): fail(f"{fid}: sourceURL must be https")
+    if f.get("changed") is not None and not re.match(r"^\d{4}-\d{2}-\d{2}$", str(f["changed"])): fail(f"{fid}: changed must be YYYY-MM-DD or null")
     seen[fid] = name
 
 prev = previous()
@@ -58,6 +60,12 @@ if prev:
     old = {f["id"]: f["name"] for f in prev["flavours"]}
     missing = sorted(set(old) - set(seen))
     if missing: fail("published ids removed: " + ", ".join(missing))
+    # Every new or changed entry must carry today's catalog date in `changed` (ignoring the field itself).
+    strip = lambda f: json.dumps({k: v for k, v in f.items() if k != "changed"}, sort_keys=True)
+    before = {f["id"]: strip(f) for f in prev["flavours"]}
+    for f in fl:
+        if (f["id"] not in before or before[f["id"]] != strip(f)) and f.get("changed") != cat["generated"]:
+            fail(f"{f['id']}: new or changed, so changed must be {cat['generated']}")
     changed = json.dumps(prev["flavours"], sort_keys=True) != json.dumps(fl, sort_keys=True)
     if changed and cat["version"] != prev["version"] + 1:
         fail(f"catalog changed, so version must be {prev['version'] + 1} (it is {cat['version']})")

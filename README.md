@@ -39,6 +39,7 @@ The catalog is refreshed each morning by a scheduled task. Each update is one co
       "since": "2004",
       "update": "Short note on the latest status",
       "sourceURL": "https://…",
+      "changed": "2026-11-13",
       "discontinued": false
     }
   ]
@@ -47,11 +48,13 @@ The catalog is refreshed each morning by a scheduled task. Each update is one co
 
 `status` is `current`, `limited` (on sale for a limited time), `retired`, or `null` when the current status isn't known. `discontinued` repeats `status == "retired"` for app version 0.1, which only reads that field. Every field except `id` and `name` may be `null`.
 
+`changed` is the date (YYYY-MM-DD) this entry was last added or changed in the catalog. The app's "Recent changes" view lists flavours by this date. It is `null` for entries that haven't changed since this field was added on 2026-11-12 (earlier changes were filled in from the repo history).
+
 ## Rules
 
 1. Released flavours only. No upcoming, rumoured or cancelled flavours, and no alcoholic products.
 2. An `id` is permanent. Never remove or rename one: people's tastings are stored against it. A flavour that ends is marked `retired`.
-3. Any change to `flavours` raises `version` by exactly 1.
+3. Any change to `flavours` raises `version` by exactly 1, and every new or changed entry gets `changed` set to the catalog's `generated` date.
 4. Run `python3 scripts/validate.py` before committing. It refuses a catalog that breaks these rules.
 
 ## Attribution

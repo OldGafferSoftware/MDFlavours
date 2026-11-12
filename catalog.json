@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 4,
+ "version": 5,
  "generated": "2026-11-12",
  "count": 141,
  "license": "CC BY-SA 4.0",
@@ -19,6 +19,7 @@
    "since": "1948",
    "update": "Original citrus soda; Zero Sugar since 2020",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -34,6 +35,7 @@
    "since": "1988",
    "update": "Low-calorie original",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -49,6 +51,7 @@
    "since": "1989",
    "update": "Parts of the US only",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -64,6 +67,7 @@
    "since": "2001",
    "update": "Cherry",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -79,6 +83,7 @@
    "since": "2003",
    "update": "Orange; some US regions",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -95,6 +100,7 @@
    "since": "2004",
    "update": "Tropical lime; year-round in stores since 2024",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -110,6 +116,7 @@
    "since": "2008",
    "update": "Blue raspberry citrus with ginseng",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -125,6 +132,7 @@
    "since": "2009",
    "update": "Cane-sugar original; mostly glass bottles now",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -140,6 +148,7 @@
    "since": "2017",
    "update": "Goji, strawberry, citrus",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -153,6 +162,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -168,6 +178,7 @@
    "since": "2026",
    "update": "Tropical citrus punch; permanent from Jan 2026; 2L due Jan 2027",
    "sourceURL": "https://sporked.com/article/mountain-dew-is-launching-a-new-baja-soda-in-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -183,6 +194,7 @@
    "since": "2025-09",
    "update": "2025 limited run; replaced by Mango Pineapple Punch",
    "sourceURL": "https://www.pepsico.com/newsroom/press-releases/2026/mountain-dew-trolli-mango-pineapple-punch-delivers-bold-tropical-flavors-in-new-limited-edition-soda",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -198,6 +210,7 @@
    "since": "2026-08",
    "update": "Limited run ended after its stated October 2026 window.",
    "sourceURL": "https://convenience.org/stay-current/news/2026/august/25/mountain-dew-and-trolli-launch-second-lto-beverage",
+   "changed": "2026-11-03",
    "discontinued": true
   },
   {
@@ -213,6 +226,7 @@
    "since": "2026-04",
    "update": "Cream soda + citrus; launched Apr 7, 2026",
    "sourceURL": "https://www.aol.com/articles/mountain-dew-launches-flavor-amid-140625135.html",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -226,6 +240,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -241,6 +256,7 @@
    "since": "2019",
    "update": "Peach and honey",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -256,6 +272,7 @@
    "since": "2019",
    "update": "Pineapple; ended 2026",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -271,6 +288,7 @@
    "since": "2020",
    "update": "Honeydew melon; ended May 2025",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -286,6 +304,7 @@
    "since": "2025-06",
    "update": "Dragon fruit; permanent",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -299,6 +318,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -312,6 +332,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -327,6 +348,7 @@
    "since": "2021",
    "update": "Lemon",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -340,6 +362,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -353,6 +376,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -368,6 +392,7 @@
    "since": "2021",
    "update": "Blue raspberry and blackberry",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -383,6 +408,7 @@
    "since": "2022",
    "update": "Blackberry lime; ended Aug 2025",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -399,6 +425,7 @@
    "since": "2022",
    "update": "Blackberry plum; bottles and cans ended early 2026, fountain only",
    "sourceURL": "https://sporked.com/article/best-mountain-dew/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -414,6 +441,7 @@
    "since": "2022",
    "update": "Citrus punch; ended 2025",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -429,6 +457,7 @@
    "since": "2024",
    "update": "Pineapple strawberry; reported to leave shelves after Dec 2025",
    "sourceURL": "https://sporked.com/article/new-mountain-dew-flavors-winter-2025/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -446,6 +475,7 @@
    "since": "2024",
    "update": "Officially launched in the UK in October 2026 via Booker, rolling out nationally from November",
    "sourceURL": "https://scottishgrocer.co.uk/2026/10/02/mountain-dew-goes-pitch-black-with-new-flavour/",
+   "changed": "2026-11-12",
    "discontinued": false
   },
   {
@@ -461,6 +491,7 @@
    "since": "2025",
    "update": "Passionfruit lime; Zero Sugar added 2026",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -476,6 +507,7 @@
    "since": "2026",
    "update": "Mango sweet heat; returning limited run",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -491,6 +523,7 @@
    "since": "2013",
    "update": "Also sold in Australia",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -506,6 +539,7 @@
    "since": "2013",
    "update": "Juice + caffeine",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -521,6 +555,7 @@
    "since": "2014",
    "update": "Juice + caffeine",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -534,6 +569,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -549,6 +585,7 @@
    "since": "2015",
    "update": "With coconut water",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -562,6 +599,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -575,6 +613,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -588,6 +627,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -601,6 +641,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -614,6 +655,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -627,6 +669,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -640,6 +683,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -653,6 +697,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -666,6 +711,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -679,6 +725,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -692,6 +739,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -705,6 +753,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -718,6 +767,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -731,6 +781,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -744,6 +795,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -757,6 +809,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -770,6 +823,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -783,6 +837,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -796,6 +851,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -809,6 +865,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -822,6 +879,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -835,6 +893,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -848,6 +907,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -861,6 +921,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -874,6 +935,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -887,6 +949,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -900,6 +963,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -913,6 +977,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -926,6 +991,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -941,6 +1007,7 @@
    "since": "2002",
    "update": "Raspberry citrus frozen",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -956,6 +1023,7 @@
    "since": "2014",
    "update": "Sour lemon",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -971,6 +1039,7 @@
    "since": "2015",
    "update": "Berry lime",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -988,6 +1057,7 @@
    "since": "2010",
    "update": "Grape",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1005,6 +1075,7 @@
    "since": "2010",
    "update": "UK's main grocery Dew, real sugar",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1018,6 +1089,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1033,6 +1105,7 @@
    "since": "2012",
    "update": "Caffeinated original",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1048,6 +1121,7 @@
    "since": "2012",
    "update": "Passion fruit",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1064,6 +1138,7 @@
    "since": "2012",
    "update": "Raspberry-lemon (different from US/Canada Supernova)",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1079,6 +1154,7 @@
    "since": "2015",
    "update": "Citrus",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1092,6 +1168,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1105,6 +1182,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1120,6 +1198,7 @@
    "since": "2016",
    "update": "Green Game Fuel variant",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1136,6 +1215,7 @@
    "since": "2014",
    "update": "Raspberry citrus; limited in the Philippines",
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_Mountain_Dew_flavors_and_varieties",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1151,6 +1231,7 @@
    "since": "2021",
    "update": "Watermelon; ended in the US (2025) and Canada (2026), still sold in Honduras as Pink Drip",
    "sourceURL": "https://sporked.com/article/mountain-dew-supernova-canada-release/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1167,6 +1248,7 @@
    "since": "2026-04",
    "update": "Cherry, lemon, raspberry; permanent in Canada from Apr 2026",
    "sourceURL": "https://sporked.com/article/mountain-dew-supernova-canada-release/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1180,6 +1262,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1193,6 +1276,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1206,6 +1290,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1219,6 +1304,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1232,6 +1318,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1245,6 +1332,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1258,6 +1346,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1271,6 +1360,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1286,6 +1376,7 @@
    "since": "2026-04",
    "update": "Berry melon; made permanent in Canada Apr 2026; no cans",
    "sourceURL": "https://sporked.com/article/mountain-dew-supernova-canada-release/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1299,6 +1390,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1312,6 +1404,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1327,6 +1420,7 @@
    "zeroSugar": null,
    "since": null,
    "update": "Back for a limited time in the 2026 America-themed variety pack.",
+   "changed": "2026-10-17",
    "discontinued": false
   },
   {
@@ -1340,6 +1434,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1353,6 +1448,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1366,6 +1462,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1379,6 +1476,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1392,6 +1490,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1405,6 +1504,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1418,6 +1518,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1431,6 +1532,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1444,6 +1546,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1457,6 +1560,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1470,6 +1574,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1483,6 +1588,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1496,6 +1602,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1509,6 +1616,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1522,6 +1630,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1535,6 +1644,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1548,6 +1658,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1561,6 +1672,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1574,6 +1686,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1587,6 +1700,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1600,6 +1714,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1613,6 +1728,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1626,6 +1742,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1639,6 +1756,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1652,6 +1770,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1665,6 +1784,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1678,6 +1798,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1691,6 +1812,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1704,6 +1826,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1717,6 +1840,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1730,6 +1854,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1743,6 +1868,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1756,6 +1882,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1769,6 +1896,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1782,6 +1910,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1795,6 +1924,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1808,6 +1938,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1821,6 +1952,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1834,6 +1966,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1847,6 +1980,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1860,6 +1994,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1873,6 +2008,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1886,6 +2022,7 @@
    "zeroSugar": null,
    "since": null,
    "update": null,
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1902,6 +2039,7 @@
    "since": "2022",
    "update": "Raspberry lemonade; ended US 2025, Canada 2026",
    "sourceURL": "https://sporked.com/article/mountain-dew-supernova-canada-release/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1917,6 +2055,7 @@
    "since": "2026-05",
    "update": null,
    "sourceURL": "https://sporked.com/article/mountain-dew-citrus-blackberry-reveal/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1932,6 +2071,7 @@
    "since": "2026-08",
    "update": null,
    "sourceURL": "https://evrimagaci.org/gpt/mountain-dew-unveils-spicy-baja-leo-birthday-soda-543750",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1947,6 +2087,7 @@
    "since": null,
    "update": null,
    "sourceURL": "https://www.mediainfoline.com/brand/pepsico-india-launches-mountain-dew-ice-welcoming-summer-season",
+   "changed": null,
    "discontinued": false
   }
  ]
