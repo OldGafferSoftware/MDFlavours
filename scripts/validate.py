@@ -12,6 +12,7 @@ Rules (the app depends on these):
   - released flavours only: no upcoming, rumoured or cancelled entries, and no alcoholic products
   - count matches the number of flavours
   - changed is YYYY-MM-DD or null; a new or changed entry has changed == generated
+  - a new or changed entry has a new update note saying what changed
 """
 import json, re, subprocess, sys
 
@@ -63,9 +64,16 @@ if prev:
     # Every new or changed entry must carry today's catalog date in `changed` (ignoring the field itself).
     strip = lambda f: json.dumps({k: v for k, v in f.items() if k != "changed"}, sort_keys=True)
     before = {f["id"]: strip(f) for f in prev["flavours"]}
+    prev_update = {f["id"]: f.get("update") for f in prev["flavours"]}
     for f in fl:
-        if (f["id"] not in before or before[f["id"]] != strip(f)) and f.get("changed") != cat["generated"]:
+        if f["id"] in before and before[f["id"]] == strip(f): continue
+        if f.get("changed") != cat["generated"]:
             fail(f"{f['id']}: new or changed, so changed must be {cat['generated']}")
+        # ...and an update note saying what changed (a fresh one, not the previous entry's note).
+        if not (f.get("update") or "").strip():
+            fail(f"{f['id']}: new or changed, so it needs an update note")
+        if f["id"] in prev_update and f.get("update") == prev_update[f["id"]]:
+            fail(f"{f['id']}: changed, so the update note must say what changed (it is the same as before)")
     changed = json.dumps(prev["flavours"], sort_keys=True) != json.dumps(fl, sort_keys=True)
     if changed and cat["version"] != prev["version"] + 1:
         fail(f"catalog changed, so version must be {prev['version'] + 1} (it is {cat['version']})")
